@@ -1,0 +1,1 @@
+{"type": "VMD_NoDecomp", "labels": ["GroupCount"], "model_type": 1, "predicteds": [5], "batch_size": 14, "train_mae": 660.18963, "train_mape": 0.15826, "test_mae": 679.39516, "test_mape": 0.17708, "kfold": null, "imfs": null}

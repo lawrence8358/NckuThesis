@@ -1,0 +1,1 @@
+{"type": "NoDecomp", "labels": ["GroupCount"], "model_type": 1, "predicteds": [3], "batch_size": 14, "train_mae": 6559.88624, "train_mape": 0.21816, "test_mae": 8281.56711, "test_mape": 0.22201, "kfold": null, "imfs": null}
